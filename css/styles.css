@@ -1,15 +1,5 @@
 @charset "UTF-8";
-/*!
-* Start Bootstrap - Freelancer v6.0.6 (https://startbootstrap.com/theme/freelancer)
-* Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
-*/
-/*!
- * Bootstrap v4.6.0 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -10144,28 +10134,19 @@ h3 {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }
-.masthead .masthead-heading {
-  font-size: 2.75rem;
-  line-height: 2.75rem;
-}
-.masthead .masthead-subheading {
-  font-size: 1.25rem;
-}
+
 .masthead .masthead-avatar {
   width: 15rem;
 }
 
 @media (min-width: 992px) {
-  .masthead {
-    padding-top: calc(6rem + 104px);
-    padding-bottom: 6rem;
+  
+  .segundo{
+font-size: 55px;
   }
-  .masthead .masthead-heading {
-    font-size: 4rem;
-    line-height: 3.5rem;
-  }
-  .masthead .masthead-subheading {
-    font-size: 1.5rem;
+  .Frase{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
   }
 }
 .portfolio .portfolio-item {
